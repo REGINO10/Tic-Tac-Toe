@@ -1,4 +1,8 @@
-# Tic-Tac-Toe
-It is a tic-tac-toe game build by using React js. This is build as a part of React js learning. I have used react state, hook and uplifting state efficiently to finish this application.
+# React + Vite
 
-Open the repository location and run 'npm install' to install all necessary packages. Then run 'npm run dev' to initiate the live server.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
